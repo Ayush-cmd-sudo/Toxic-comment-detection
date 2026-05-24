@@ -1,0 +1,10 @@
+fastapi
+Numpy
+pandas
+uvicorn
+nltk
+sklearn
+re
+string
+ssl
+pickel
