@@ -3,7 +3,7 @@ Numpy
 pandas
 uvicorn
 nltk
-sklearn
+scikit-learn
 re
 string
 ssl
